@@ -1,8 +1,8 @@
 # Greedy_python
 
 ## Greedy type Solutions
-<p>
-1.law of large number
+
+<li>law of large number</li>
 2.number card game
 3.until it becomes int 1
 </p>
